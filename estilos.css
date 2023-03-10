@@ -1,5 +1,5 @@
 #hola {
-    background-image: url(/img/header_background.jpeg);
+    background-image: url(./img/header_background.jpeg);
     width: 100%;
     height: 90vh;
     color: white;
