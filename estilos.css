@@ -6,4 +6,10 @@ body header {
 }
 body {
     font-family: 'Inter', sans-serif;
+    max-width: 35%;
+    margin: 0 auto;
+}
+img, iframe{
+    max-width: 100%;
+    margin: 0 auto;
 }
